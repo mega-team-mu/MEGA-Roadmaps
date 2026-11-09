@@ -21,7 +21,7 @@ Learning roadmaps organized by **track → level → week**
 | 📊 [Data Science](07-data-science/README.md) | Entry · Intermediate · Advanced | 20 weeks per level | Python, SQL and data analysis, machine learning, then NLP/LLMs, Computer Vision, Data Engineering or MLOps |
 | 🛡️ [Cyber Security](08-cyber-security/README.md) | Entry · SOC · Penetration Testing | 9 weeks + 11 weeks per specialization | Networking, Linux, Windows and security basics, then a SOC or web penetration testing path |
 
-## 📐 How each roadmap is organized
+## 📐 Each roadmap Structure
 
 ```
 roadmaps/
