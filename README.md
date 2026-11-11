@@ -12,14 +12,14 @@ Learning roadmaps organized by **track → level → week**
 
 | Track | Levels | Duration | What it covers |
 |:------|:-------|:---------|:---------------|
-| 💻 [Computer Science]("Computer Science"/README.md) | Entry · Intermediate · Advanced | 38 weeks | Programming fundamentals in C++, object-oriented programming, data structures and algorithms |
-| 💼 [Business Analysis]("Business Analysis"/README.md) | Entry · Intermediate · Advanced | 15 weeks | Entrepreneurship basics, market research and pitching, then business requirements analysis |
+| 💻 [Computer Science](Computer%20Science/README.md) | Entry · Intermediate · Advanced | 38 weeks | Programming fundamentals in C++, object-oriented programming, data structures and algorithms |
+| 💼 [Business Analysis]("Business%20Analysis"/README.md) | Entry · Intermediate · Advanced | 15 weeks | Entrepreneurship basics, market research and pitching, then business requirements analysis |
 | 🖥️ [Backend](Backend/README.md) | Entry · Beginner · Intermediate 1 · Intermediate 2 · Advanced · Deployment & Production · AI for Developers | 37 weeks | .NET backend development: C#, SQL, Entity Framework Core, ASP.NET Core, architecture, deployment and AI |
 | 🌐 [Frontend](Frontend/README.md) | Entry · Intermediate · Advanced | 50 weeks (12 months) | HTML and CSS, JavaScript and React, then TypeScript, Next.js and production-level tools |
 | 🎨 [UI/UX](UI-UX/README.md) | Entry · Intermediate · Advanced | 20 weeks | Design fundamentals and Figma, the full UX/UI process, then design systems, testing and a portfolio |
 | 📱 [Flutter](Flutter/README.md) | Entry · Intermediate · Advanced | 21 weeks | Dart and Flutter widgets, APIs and Bloc/Cubit, then Firebase, Clean Architecture and clean code |
-| 📊 [Data Science]("Data Science"/README.md) | Entry · Intermediate · Advanced | 20 weeks per level | Python, SQL and data analysis, machine learning, then NLP/LLMs, Computer Vision, Data Engineering or MLOps |
-| 🛡️ [Cyber Security]("Cyber Security"/README.md) | Entry · SOC · Penetration Testing | 9 weeks + 11 weeks per specialization | Networking, Linux, Windows and security basics, then a SOC or web penetration testing path |
+| 📊 [Data Science]("Data%20Science"/README.md) | Entry · Intermediate · Advanced | 20 weeks per level | Python, SQL and data analysis, machine learning, then NLP/LLMs, Computer Vision, Data Engineering or MLOps |
+| 🛡️ [Cyber Security]("Cyber%20Security"/README.md) | Entry · SOC · Penetration Testing | 9 weeks + 11 weeks per specialization | Networking, Linux, Windows and security basics, then a SOC or web penetration testing path |
 
 ## 📐 Each roadmap Structure
 
