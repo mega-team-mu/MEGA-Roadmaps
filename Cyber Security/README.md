@@ -8,15 +8,11 @@
 
 ## 👥 Roadmap created by
 
-<!--
-HOW TO ADD MORE CONTRIBUTORS
-1. Copy the line below, one line per person.
-2. Replace Full Name, linkedin-username and Role.
+[Mentor — shams mohammed](https://www.linkedin.com/in/shamsmo195/)
 
-- [Full Name](https://www.linkedin.com/in/linkedin-username) — Role
--->
+[Ahmed Shaban](https://www.linkedin.com/in/ahmed-shaban-421b17300)
 
-- [Ahmed Shaban](https://www.linkedin.com/in/ahmed-shaban-421b17300) — SOC Roadmap
+[CO-Mentor — Omar Abdulghani](https://www.linkedin.com/in/omar-abdulghani3/)
 
 ---
 
