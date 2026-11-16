@@ -8,16 +8,11 @@
 
 ## 👥 Roadmap created by
 
-<!--
-HOW TO ADD CONTRIBUTORS
-1. Copy the line below for each person, one line per person.
-2. Replace Full Name, linkedin-username and Role.
-3. Delete the "_To be added_" line when you are done.
+[Mentor — Ibrahim Fekry](https://www.linkedin.com/in/ibrahim-fekry-981a9a379/)
 
-- [Full Name](https://www.linkedin.com/in/linkedin-username) — Role
--->
+[CO-Mentor — Rokaia Rezk](https://www.linkedin.com/in/rokaia-rezk-0761052bb/)
 
-_To be added_
+[CO-Mentor — Mohamed Tamer](https://www.linkedin.com/in/mohamed-tamer--/)
 
 ---
 
