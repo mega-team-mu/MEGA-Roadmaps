@@ -8,17 +8,7 @@
 
 ## 👥 Roadmap created by
 
-<!--
-HOW TO ADD CONTRIBUTORS
-1. Copy the line below for each person, one line per person.
-2. Replace Full Name, linkedin-username and Role.
-3. Delete the "_To be added_" line when you are done.
-
-- [Full Name](https://www.linkedin.com/in/linkedin-username) — Role
--->
-
-_To be added_
-
+[Mentor — Seif Elboghdady](https://www.linkedin.com/in/seifelboghdady/)
 ---
 
 ## 📖 Overview
