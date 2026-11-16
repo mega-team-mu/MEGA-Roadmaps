@@ -8,15 +8,11 @@
 
 ## 👥 Roadmap created by
 
-<!--
-HOW TO ADD MORE CONTRIBUTORS
-1. Copy the line below, one line per person.
-2. Replace Full Name, linkedin-username and Role.
+[Mentor — Abdullah Yasser](https://www.linkedin.com/in/abdullah-yasser-06a021325/)
 
-- [Full Name](https://www.linkedin.com/in/linkedin-username) — Role
--->
+[CO-Mentor — Salma Elmaghawry](https://www.linkedin.com/in/salma-elmaghawry/) 
 
-- [Salma Elmaghawry](https://www.linkedin.com/in/salma-elmaghawry/)
+[CO-Mentor — Toqa Shamaa](https://www.linkedin.com/in/toqa-shamaa-102533336/)
 
 ---
 
