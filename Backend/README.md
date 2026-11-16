@@ -17,9 +17,11 @@ HOW TO ADD CONTRIBUTORS
 - [Full Name](https://www.linkedin.com/in/linkedin-username) — Role
 -->
 
-[Alia Harb](https://www.linkedin.com/in/alia-harb-ba660133b/)
-[Rawda Eweda](https://www.linkedin.com/in/rawda-eweda-b1b5ab376/)
-[Islam Khaled](https://www.linkedin.com/in/islamkhaledfouad/)
+[Mentor — Alia Harb](https://www.linkedin.com/in/alia-harb-ba660133b/)
+
+[CO-Mentor — Rawda Eweda](https://www.linkedin.com/in/rawda-eweda-b1b5ab376/)
+
+[CO-Mentor — Islam Khaled](https://www.linkedin.com/in/islamkhaledfouad/)
 
 ---
 
