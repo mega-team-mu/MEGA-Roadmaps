@@ -17,7 +17,9 @@ HOW TO ADD CONTRIBUTORS
 - [Full Name](https://www.linkedin.com/in/linkedin-username) — Role
 -->
 
-_To be added_
+[Alia Harb](https://www.linkedin.com/in/alia-harb-ba660133b/)
+[Rawda Eweda](https://www.linkedin.com/in/rawda-eweda-b1b5ab376/)
+[Islam Khaled](https://www.linkedin.com/in/islamkhaledfouad/)
 
 ---
 
