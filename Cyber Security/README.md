@@ -10,7 +10,7 @@
 
 [Mentor — shams mohammed](https://www.linkedin.com/in/shamsmo195/)
 
-[CO-Mentor — Ahmed Shaban](https://www.linkedin.com/in/ahmed-shaban-421b17300)
+[CO-Mentor — Ahmed Shaban](https://www.linkedin.com/in/ahmed-ashraf-shaban/)
 
 [CO-Mentor — Omar Abdulghani](https://www.linkedin.com/in/omar-abdulghani3/)
 
